@@ -1,0 +1,67 @@
+---
+title: "My document"
+author: "Victor Mandela"
+date: "July 12, 2019"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+  word_document: default
+---
+
+#Coding Club Project
+
+##Report on assignment
+
+```{r load, include=FALSE}
+
+rm(list = ls())
+
+setwd("C:/stata assignments/almost complete/masters for march/dr bundi/the assignment")
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(readr)
+library(broom)
+library(purrr)
+library(ggthemes)
+
+#load data
+data <- read_csv("mobilemoney_data.csv", col_names = T, cols(district = col_factor(),urban = col_factor(),
+gender = col_factor()))
+```
+##Introduction
+
+The data was collected on the use of mobile money services and the experiences of mobile money customers in three districts of Rwanda. The dataset has been provided and you have been asked to write a short summary outlining key findings from the project. You should perform all the statistical analysis required and write up the key findings. You should remember that the target audiences do not have a statistical background.
+
+###This part shows 6 observations for the demographics
+
+```{r echo=TRUE}
+demographics <- data %>% select(age,gender,highest_grade_completed,hh_members)
+head(demographics,6)
+#write.csv(demographics, "demographics.csv", row.names = F)
+```
+
+##Distribution of gender
+
+```{r}
+ggplot(data, aes(x = gender))+ geom_bar(fill = "blue" )
+table(data$gender)
+
+```
+
+The bar chart above show that 1458 female and 1051 male were involved in the study.
+
+##scatter plot for age against household members
+
+```{r}
+ggplot(data,aes(x = age, y = hh_members)) + geom_point()+ facet_wrap(.~gender + highest_grade_completed)
+```
+
+##The distribution of types of accounts
+
+```{r}
+data %>% group_by(account_type) %>% summarise(number = n())%>% mutate(percentage = number/sum(number)*100) %>% arrange(desc(percentage))
+```
+
+The table above shows that mobile money and VSLA account are the most used with 32.88 and 26.66 percent of people usin it. The lowest bank account used is online bank account.

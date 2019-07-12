@@ -1,0 +1,2510 @@
+"age","gender","highest_grade_completed","hh_members"
+32,"male","primary 6",1
+32,"male","primary 6",1
+32,"male","primary 3",4
+32,"male","primary 3",4
+32,"male","primary 3",4
+30,"male","secondary 6",8
+30,"male","secondary 6",8
+68,"male","primary 6",4
+28,"female","primary 6",2
+36,"female","primary 3",7
+66,"female","primary 6",7
+66,"female","primary 6",7
+66,"female","primary 6",7
+52,"male","primary 4",5
+52,"male","primary 4",5
+37,"female","primary 6",5
+45,"male","secondary 6",7
+45,"male","secondary 6",7
+25,"male","primary 5",3
+25,"male","primary 5",3
+25,"male","primary 5",3
+25,"female","primary 6",6
+25,"female","primary 6",6
+25,"female","primary 6",6
+20,"female","primary 6",1
+20,"female","primary 6",1
+20,"female","primary 6",1
+20,"female","primary 6",1
+32,"female","primary 3",4
+32,"female","primary 3",4
+32,"female","primary 3",4
+31,"female",NA,5
+31,"female",NA,5
+24,"male","primary 5",3
+24,"male","primary 5",3
+24,"male","primary 5",3
+20,"female","other",9
+23,"female","secondary 6",5
+45,"female","primary 6",3
+45,"female","primary 6",3
+45,"female","primary 6",3
+45,"female","primary 6",3
+70,"female","primary 1",2
+33,"female","university",6
+33,"female","university",6
+40,"male","secondary 2",5
+40,"male","secondary 2",5
+40,"male","secondary 2",5
+40,"male","secondary 2",5
+40,"male","secondary 2",5
+24,"male","primary 3",3
+23,"female","university",3
+23,"female","university",3
+27,"female","secondary 2",5
+27,"female","secondary 2",5
+27,"female","secondary 2",5
+21,"female","primary 5",7
+21,"female","primary 5",7
+21,"female","primary 5",7
+21,"female","primary 5",7
+21,"female","primary 6",4
+24,"male","primary 4",5
+39,"female","primary 6",3
+26,"male","primary 3",3
+26,"male","primary 3",3
+37,"female","primary 5",5
+37,"female","primary 5",5
+37,"female","primary 5",5
+37,"female","primary 5",5
+39,"female","primary 6",6
+39,"female","primary 6",6
+39,"female","primary 6",6
+49,"female","secondary 6",7
+49,"female","secondary 6",7
+49,"female","secondary 6",7
+25,"female","primary 1",3
+25,"female","primary 1",3
+25,"female","primary 1",3
+50,"female","primary 5",3
+50,"female","primary 5",3
+50,"female","primary 5",3
+50,"female","primary 5",3
+44,"male",NA,7
+44,"male",NA,7
+40,"female","primary 6",4
+24,"female","secondary 6",5
+59,"female","tvet",5
+28,"female","primary 2",4
+28,"female","primary 2",4
+58,"female","primary 4",2
+58,"female","primary 4",2
+58,"female","primary 4",2
+26,"female","primary 5",5
+26,"female","primary 5",5
+26,"female","primary 5",5
+60,"male","primary 1",4
+60,"male","primary 1",4
+60,"male","primary 1",4
+60,"male","primary 1",4
+24,"female","secondary 6",3
+24,"female","secondary 6",3
+65,"female","primary 6",4
+65,"female","primary 6",4
+65,"female","primary 6",4
+65,"female","primary 6",4
+35,"female","primary 1",4
+31,"male","tvet",6
+60,"female",NA,3
+60,"female",NA,3
+60,"female",NA,3
+47,"female","primary 6",7
+47,"female","primary 6",7
+47,"female","primary 6",7
+48,"female",NA,2
+48,"female",NA,2
+48,"female",NA,2
+58,"male","primary 6",3
+58,"male","primary 6",3
+23,"male","primary 6",5
+23,"male","primary 6",5
+23,"male","primary 6",5
+23,"male","primary 6",5
+72,"female",NA,2
+72,"female",NA,2
+28,"female",NA,2
+21,"female","secondary 3",8
+21,"female","secondary 3",8
+21,"female","secondary 3",8
+25,"male","primary 6",8
+33,"male",NA,6
+33,"male",NA,6
+66,"female","primary 4",7
+32,"male","primary 3",2
+32,"male","primary 3",2
+32,"male","primary 3",2
+32,"male","primary 3",2
+62,"female","secondary 3",3
+62,"female","secondary 3",3
+62,"female","secondary 3",3
+31,"male","primary 6",4
+31,"male","primary 6",4
+51,"female",NA,3
+51,"female",NA,3
+51,"female",NA,3
+28,"female","primary 6",5
+30,"female","primary 3",6
+30,"female","primary 3",6
+33,"female",NA,7
+33,"female",NA,7
+79,"male",NA,5
+79,"male",NA,5
+35,"male","primary 3",5
+35,"male","primary 3",5
+48,"male","university",5
+23,"male","secondary 2",4
+28,"female","primary 4",4
+28,"female","primary 4",4
+28,"female","primary 4",4
+28,"female","primary 4",4
+38,"female",NA,6
+38,"female",NA,6
+65,"male",NA,5
+29,"male","primary 1",4
+29,"male","primary 1",4
+32,"male","tvet",3
+32,"male","tvet",3
+43,"male","secondary 3",1
+43,"male","secondary 3",1
+43,"male","primary 6",6
+43,"male","primary 6",6
+31,"female","primary 2",4
+31,"female","primary 2",4
+31,"female","primary 2",4
+46,"female","primary 3",6
+46,"female","primary 3",6
+26,"female","secondary 6",3
+26,"female","secondary 6",3
+26,"female","secondary 6",3
+26,"female","secondary 6",5
+26,"female","secondary 6",5
+26,"female","secondary 6",5
+26,"female","secondary 6",5
+27,"male","secondary 6",3
+27,"male","secondary 6",3
+32,"male","secondary 4",7
+32,"male","secondary 4",7
+19,"male","secondary 5",4
+19,"male","secondary 5",4
+19,"male","secondary 5",4
+26,"female","primary 2",2
+26,"female","primary 2",2
+50,"male","primary 6",8
+50,"male","primary 6",8
+50,"male","primary 6",8
+47,"male","primary 6",5
+47,"male","primary 6",5
+47,"male","primary 6",5
+47,"male","primary 6",5
+38,"male","primary 6",5
+38,"male","primary 6",5
+38,"female","primary 3",3
+60,"female","primary 2",7
+18,"male","primary 6",7
+18,"male","primary 6",7
+18,"male","primary 6",7
+43,"female","primary 3",4
+43,"female","primary 3",4
+27,"female","primary 6",5
+30,"female","primary 5",4
+30,"female","primary 5",4
+30,"female","primary 5",4
+32,"male","secondary 6",8
+29,"female","secondary 6",5
+29,"female","secondary 6",5
+29,"female","secondary 6",5
+25,"female","primary 4",4
+25,"female","primary 4",4
+25,"female","primary 4",4
+62,"female","primary 4",3
+62,"female","primary 4",3
+62,"female","primary 4",3
+29,"male","secondary 6",6
+29,"male","secondary 6",6
+54,"male","primary 4",8
+39,"male","other",4
+39,"male","other",4
+59,"female","secondary 3",3
+37,"female","primary 6",4
+37,"female","primary 6",4
+37,"female","primary 6",4
+37,"female","primary 6",4
+24,"male","secondary 2",4
+24,"male","secondary 2",4
+19,"female","secondary 6",9
+68,"female","primary 6",5
+68,"female","primary 6",5
+38,"female","primary 3",8
+38,"female","primary 3",8
+22,"female","secondary 6",6
+22,"female","secondary 6",6
+22,"female","secondary 6",6
+36,"female","primary 6",6
+29,"male","university",2
+45,"female",NA,4
+45,"female",NA,4
+45,"female",NA,4
+32,"male","primary 6",3
+38,"male","primary 6",4
+25,"male","primary 6",3
+25,"male","primary 6",3
+25,"male","primary 6",3
+26,"male","secondary 6",6
+30,"male","primary 3",4
+30,"male","primary 3",4
+30,"male","primary 3",4
+40,"female","primary 6",6
+22,"male","primary 5",7
+39,"female","secondary 1",3
+39,"female","secondary 1",3
+39,"female","secondary 1",3
+32,"male","secondary 3",5
+32,"male","secondary 3",5
+38,"female","primary 2",7
+38,"female","primary 2",7
+35,"female",NA,5
+66,"female",NA,2
+66,"female",NA,2
+66,"female",NA,2
+43,"female","primary 2",7
+43,"female","primary 2",7
+29,"female","primary 6",4
+29,"female","primary 6",4
+48,"male","primary 6",5
+48,"male","primary 6",5
+48,"male","primary 6",5
+48,"male","primary 6",5
+26,"female","primary 5",2
+26,"female","primary 5",2
+26,"female","primary 5",2
+26,"female","primary 5",2
+42,"male","primary 5",5
+40,"female","primary 1",5
+40,"female","primary 1",5
+40,"female","primary 1",5
+52,"female",NA,2
+23,"male","primary 3",2
+23,"male","primary 3",2
+23,"male","primary 3",2
+23,"male","primary 3",2
+23,"female","primary 4",3
+28,"female","university",2
+28,"female","university",2
+28,"female","university",2
+25,"male","secondary 4",3
+42,"female","primary 4",7
+42,"female","primary 4",7
+42,"female","primary 4",7
+23,"male","primary 5",5
+23,"male","primary 5",5
+23,"male","primary 5",5
+28,"male","secondary 6",4
+28,"male","secondary 6",4
+28,"male","secondary 6",4
+28,"male","secondary 6",4
+50,"female","primary 6",3
+50,"female","primary 6",3
+50,"female","primary 6",3
+38,"female","primary 6",5
+88,"female",NA,2
+34,"male","primary 6",4
+31,"male","primary 5",3
+31,"male","primary 5",3
+31,"male","primary 5",3
+31,"male","primary 5",3
+42,"female","primary 6",4
+38,"male","primary 6",7
+35,"female",NA,6
+35,"female",NA,6
+35,"female",NA,6
+24,"female","primary 2",7
+24,"female","primary 2",7
+24,"female","primary 2",7
+18,"female","primary 5",8
+18,"female","primary 5",8
+18,"female","primary 5",8
+18,"female","primary 5",8
+31,"female","primary 6",4
+31,"female","primary 6",4
+19,"male","secondary 1",3
+19,"male","secondary 1",3
+42,"female",NA,3
+20,"female","secondary 3",3
+20,"female","secondary 3",3
+72,"female",NA,3
+72,"female",NA,3
+39,"male","primary 4",6
+18,"female","secondary 2",4
+18,"female","secondary 2",4
+36,"male","secondary 6",5
+36,"male","secondary 6",5
+36,"male","secondary 6",5
+40,"male","primary 5",7
+40,"male","primary 5",7
+25,"male","secondary 6",3
+32,"male","university",8
+32,"male","university",8
+54,"male","tvet",4
+35,"female","primary 2",5
+50,"female","primary 6",4
+50,"female","primary 6",4
+50,"female","primary 6",4
+38,"male","primary 3",8
+38,"male","primary 3",8
+49,"male","university",4
+52,"female","primary 2",7
+52,"female","primary 2",7
+31,"male","university",2
+31,"male","university",2
+25,"male","secondary 3",3
+28,"female","primary 3",8
+39,"female","university",3
+35,"female",NA,7
+35,"female",NA,7
+49,"female","primary 6",5
+49,"female","primary 6",5
+49,"female","primary 6",5
+49,"female","primary 6",5
+49,"female","primary 6",5
+52,"female","primary 6",5
+52,"female","primary 6",5
+46,"male","primary 6",6
+32,"female","secondary 3",3
+32,"female","secondary 3",3
+38,"female","primary 6",4
+38,"female","primary 6",4
+20,"male","primary 5",5
+27,"female","primary 4",2
+27,"female","primary 4",2
+27,"female","primary 4",2
+18,"male","secondary 6",2
+67,"female","primary 6",3
+67,"female","primary 6",3
+67,"female","primary 6",3
+55,"male","primary 3",6
+39,"female","university",5
+39,"female","university",5
+39,"female","university",5
+31,"male","primary 3",2
+31,"male","primary 3",2
+51,"female","primary 6",3
+51,"female","primary 6",3
+51,"female","primary 6",3
+51,"female","primary 6",3
+29,"male","primary 6",4
+29,"male","primary 6",4
+29,"male","primary 6",4
+52,"female","secondary 4",4
+35,"female","university",8
+32,"female","primary 6",4
+32,"female","primary 6",4
+54,"female","tvet",7
+54,"female","tvet",7
+54,"female","tvet",7
+33,"male","primary 5",4
+33,"male","primary 5",4
+33,"male","primary 5",4
+33,"male","primary 5",4
+44,"female","primary 6",8
+22,"female","primary 4",7
+22,"female","primary 4",7
+19,"male","primary 5",5
+19,"male","primary 5",5
+27,"female","university",5
+27,"female","university",5
+27,"female","university",5
+31,"male","primary 2",6
+55,"female","primary 6",4
+55,"female","primary 6",4
+43,"female","primary 4",8
+43,"female","primary 4",8
+43,"female","primary 4",8
+52,"male","primary 5",7
+41,"male","secondary 2",8
+18,"female","primary 6",4
+18,"female","primary 6",4
+35,"female","primary 4",5
+27,"male","primary 6",6
+28,"female","primary 4",3
+42,"female",NA,6
+42,"female",NA,6
+23,"female","secondary 6",5
+23,"female","secondary 6",5
+69,"female","primary 2",3
+69,"female","primary 2",3
+24,"male","secondary 6",3
+24,"male","secondary 6",3
+35,"female",NA,6
+35,"female",NA,6
+35,"female",NA,6
+33,"male","primary 6",3
+20,"female","secondary 3",3
+31,"female","secondary 2",6
+31,"female","secondary 2",6
+39,"female",NA,5
+39,"female",NA,5
+55,"female","primary 1",6
+55,"female","primary 1",6
+42,"male","secondary 6",6
+42,"male","secondary 6",6
+42,"male","secondary 6",6
+42,"male","secondary 6",6
+56,"male","primary 2",4
+56,"male","primary 2",4
+56,"male","primary 2",4
+56,"male","primary 2",4
+44,"female","primary 1",6
+33,"male","primary 6",4
+33,"male","primary 6",4
+33,"male","primary 6",4
+41,"female","primary 6",6
+29,"female","primary 2",3
+29,"female","primary 2",3
+29,"female","primary 2",3
+57,"female","primary 6",6
+57,"female","primary 6",6
+57,"female","primary 6",6
+28,"female","primary 6",6
+28,"female","primary 6",6
+28,"female","primary 6",6
+67,"male","other",1
+67,"male","other",1
+63,"female",NA,1
+35,"female","primary 6",5
+63,"female","secondary 3",2
+63,"female","secondary 3",2
+63,"female","secondary 3",2
+27,"male","primary 3",1
+27,"male","primary 3",1
+27,"male","primary 3",1
+36,"female","primary 3",5
+36,"female","primary 3",5
+25,"female","secondary 3",2
+25,"female","secondary 3",2
+25,"female","secondary 3",2
+49,"male","primary 6",7
+60,"female","tvet",5
+60,"female","tvet",5
+38,"male","primary 4",6
+38,"male","primary 4",6
+38,"male","primary 4",6
+38,"male","primary 4",6
+31,"female","primary 5",5
+31,"female","primary 5",5
+31,"female","primary 5",5
+31,"female","primary 5",5
+58,"female","primary 6",5
+55,"female","primary 3",6
+55,"female","primary 3",6
+20,"male","primary 6",3
+32,"female","primary 5",5
+32,"female","primary 5",5
+32,"female","primary 5",5
+38,"female","primary 6",4
+38,"female","primary 6",4
+38,"female","primary 6",4
+38,"female","primary 6",4
+47,"male","primary 6",6
+47,"male","primary 6",6
+24,"female","secondary 3",4
+24,"female","secondary 3",4
+27,"male","primary 3",4
+27,"male","primary 3",4
+59,"female","primary 6",4
+30,"female","primary 6",2
+30,"female","primary 6",2
+30,"female","primary 6",2
+22,"female","primary 6",2
+22,"female","primary 6",2
+22,"female","primary 6",2
+22,"female","primary 6",2
+32,"female","primary 3",6
+32,"female","primary 3",6
+30,"female","secondary 6",4
+30,"female","secondary 6",4
+30,"female","secondary 6",4
+47,"male",NA,6
+47,"male",NA,6
+47,"male",NA,6
+30,"male",NA,3
+22,"male","primary 2",3
+87,"male",NA,2
+20,"male","primary 5",5
+20,"male","primary 5",5
+20,"male","primary 5",5
+20,"male","primary 5",5
+20,"female","primary 6",3
+24,"female","secondary 6",5
+24,"female","secondary 6",5
+64,"female",NA,8
+64,"female",NA,8
+20,"male","secondary 2",2
+24,"male","university",3
+24,"male","university",3
+24,"male","university",3
+56,"female","secondary 4",3
+33,"male","primary 6",6
+33,"male","primary 6",6
+33,"male","primary 6",6
+36,"female",NA,5
+36,"female",NA,5
+42,"male","primary 4",7
+42,"male","primary 4",7
+31,"female","primary 4",4
+31,"female","primary 4",4
+31,"female","primary 4",4
+31,"male","primary 5",5
+23,"male","secondary 3",6
+22,"female","secondary 6",3
+22,"female","secondary 6",3
+22,"female","secondary 6",3
+24,"female","secondary 6",3
+24,"female","secondary 6",3
+24,"female","secondary 6",3
+28,"female","primary 6",3
+28,"female","primary 6",3
+20,"male","primary 6",6
+20,"male","primary 6",6
+42,"male","primary 6",4
+42,"male","primary 6",4
+31,"female","primary 6",1
+32,"male","university",5
+50,"male","primary 6",7
+50,"male","primary 6",7
+66,"female",NA,4
+66,"female",NA,4
+66,"female",NA,4
+66,"female",NA,4
+47,"male","primary 6",2
+47,"male","primary 6",2
+47,"male","primary 6",2
+47,"male","primary 6",2
+33,"female","primary 4",6
+50,"female",NA,6
+58,"female",NA,6
+58,"female",NA,6
+58,"female",NA,6
+19,"female","primary 6",2
+50,"male","primary 4",5
+50,"male","primary 4",5
+50,"male","primary 4",5
+41,"female","primary 6",5
+43,"male","secondary 3",2
+43,"male","secondary 3",2
+26,"female","primary 6",6
+26,"female","primary 6",6
+64,"female","primary 4",1
+20,"male","secondary 5",2
+20,"male","secondary 5",2
+36,"male","university",6
+36,"male","university",6
+36,"male","university",6
+36,"male","university",6
+28,"male","primary 4",3
+28,"male","primary 4",3
+28,"male","primary 4",3
+23,"female",NA,3
+23,"female",NA,3
+30,"female","primary 6",5
+26,"female","primary 4",5
+60,"female","primary 6",2
+60,"female","primary 6",2
+60,"female","primary 6",2
+60,"female","primary 6",2
+20,"female","primary 6",6
+20,"female","primary 6",6
+20,"female","primary 6",6
+20,"female","primary 6",6
+38,"male","primary 5",3
+38,"male","primary 5",3
+45,"male","university",5
+45,"male","university",5
+40,"female","tvet",6
+40,"female","tvet",6
+40,"female","tvet",6
+40,"female","tvet",6
+31,"male","university",4
+31,"male","university",4
+31,"male","university",4
+31,"male","university",4
+23,"female","secondary 6",9
+23,"female","secondary 6",9
+23,"female","secondary 6",9
+38,"female","primary 6",5
+47,"male","university",3
+47,"male","university",3
+42,"female","primary 5",6
+54,"male","secondary 4",6
+34,"male","primary 3",1
+34,"male","primary 3",1
+34,"male","primary 3",1
+22,"male","secondary 3",7
+22,"male","secondary 3",7
+22,"male","secondary 3",7
+22,"male","secondary 3",7
+40,"female","secondary 1",6
+57,"female","primary 5",5
+57,"female","primary 5",5
+57,"female","primary 5",5
+26,"female","primary 2",2
+26,"female","primary 2",2
+42,"male","primary 4",6
+41,"female","primary 6",5
+41,"female","primary 6",5
+60,"female","primary 2",2
+60,"female","primary 2",2
+60,"female","primary 2",2
+37,"female","primary 2",7
+37,"female","primary 2",7
+35,"male","primary 6",2
+35,"male","primary 6",2
+35,"male","primary 6",2
+18,"male","primary 5",5
+18,"male","primary 5",5
+35,"female","university",4
+18,"male","secondary 3",6
+18,"male","secondary 3",6
+24,"male","secondary 3",3
+33,"male","primary 2",7
+34,"male","primary 3",4
+31,"male","primary 6",4
+31,"male","primary 6",4
+31,"male","primary 6",4
+25,"male","university",9
+44,"male","primary 2",7
+44,"male","primary 2",7
+44,"male","primary 2",7
+42,"male","primary 4",5
+42,"male","primary 4",5
+42,"male","primary 4",5
+42,"male","primary 4",5
+49,"female","primary 6",5
+49,"female","primary 6",5
+47,"female","primary 3",2
+47,"female","primary 3",2
+39,"female","secondary 6",5
+39,"female","secondary 6",5
+27,"female","secondary 5",7
+27,"female","secondary 5",7
+31,"female","university",7
+22,"female","primary 6",2
+52,"female",NA,4
+52,"female",NA,4
+19,"female","secondary 6",5
+19,"female","secondary 6",5
+52,"female","primary 2",2
+52,"female","primary 2",2
+21,"female","secondary 3",3
+21,"female","secondary 3",3
+21,"female","secondary 3",3
+21,"female","secondary 3",3
+30,"male",NA,2
+30,"male",NA,2
+30,"male",NA,2
+37,"male",NA,7
+52,"male","primary 6",8
+52,"male","primary 6",8
+52,"male","primary 6",8
+52,"male","primary 6",8
+23,"female","secondary 6",5
+23,"female","secondary 6",5
+23,"female","secondary 6",5
+45,"female","secondary 2",6
+45,"female","secondary 2",6
+45,"female","secondary 2",6
+31,"female",NA,4
+31,"female",NA,4
+31,"female",NA,4
+40,"male","primary 4",7
+40,"male","primary 4",7
+36,"male","primary 6",5
+36,"male","primary 6",5
+30,"female","primary 2",5
+30,"female","primary 2",5
+30,"female","primary 2",5
+63,"male","primary 6",9
+63,"male","primary 6",9
+63,"male","primary 6",9
+45,"male","primary 6",6
+45,"male","primary 6",6
+45,"male","primary 6",6
+45,"male","primary 6",6
+30,"male","university",2
+30,"male","university",2
+30,"male","university",2
+30,"male","university",2
+38,"male",NA,5
+38,"male",NA,5
+39,"female","primary 6",5
+39,"female","primary 6",5
+39,"female","primary 6",5
+39,"male","other",10
+34,"female",NA,6
+34,"female",NA,6
+34,"female",NA,6
+34,"female",NA,6
+35,"male","primary 6",6
+37,"male","primary 6",5
+29,"female","primary 4",4
+29,"female","primary 4",4
+29,"female","primary 4",4
+29,"female","primary 4",4
+21,"male","secondary 3",4
+21,"male","secondary 3",4
+27,"female","primary 6",4
+27,"female","primary 6",4
+27,"female","primary 6",4
+27,"female","primary 6",4
+33,"male",NA,4
+48,"male","primary 4",5
+22,"female","secondary 2",8
+22,"female","secondary 2",8
+20,"female","primary 6",4
+31,"female",NA,4
+31,"female",NA,4
+41,"male","secondary 6",4
+19,"male","primary 5",1
+19,"female","secondary 3",5
+26,"female","secondary 3",3
+26,"female","secondary 3",3
+26,"female","secondary 3",3
+34,"male","primary 5",5
+34,"male","primary 5",5
+36,"female","primary 2",7
+36,"female","primary 2",7
+42,"female","secondary 2",5
+42,"female","secondary 2",5
+42,"female","secondary 2",5
+42,"female","secondary 2",5
+26,"female","secondary 2",4
+44,"female","primary 2",2
+44,"female","primary 2",2
+44,"female","primary 2",2
+46,"female","secondary 4",11
+46,"female","secondary 4",11
+46,"female","secondary 4",11
+24,"female","secondary 3",5
+24,"female","secondary 3",5
+67,"female",NA,4
+29,"male","primary 5",7
+29,"male","primary 5",7
+29,"male","primary 5",7
+31,"male","primary 3",3
+31,"male","primary 3",3
+35,"female","primary 4",4
+35,"female","primary 4",4
+35,"female","primary 4",4
+49,"female","primary 6",7
+49,"female","primary 6",7
+49,"female","primary 6",7
+47,"female","primary 1",4
+61,"female","primary 6",2
+37,"male","primary 6",7
+37,"male","primary 6",7
+37,"male","primary 6",7
+22,"male","secondary 2",4
+22,"male","secondary 2",4
+29,"male","primary 4",3
+29,"male","primary 4",3
+43,"female",NA,6
+36,"male","university",6
+36,"male","university",6
+25,"female","primary 5",3
+25,"female","primary 5",3
+25,"male","primary 6",3
+59,"male","primary 3",6
+20,"female","secondary 6",18
+42,"male","primary 6",4
+42,"male","primary 6",4
+38,"female","primary 6",6
+38,"female","primary 6",6
+38,"female","primary 6",6
+34,"female",NA,3
+38,"male","primary 5",5
+38,"male","primary 4",6
+38,"male","primary 4",6
+43,"male","primary 6",5
+43,"male","primary 6",5
+61,"female","primary 6",4
+61,"female","primary 6",4
+38,"female","primary 2",6
+38,"female","primary 2",6
+38,"female","primary 2",6
+50,"male","tvet",6
+50,"male","tvet",6
+50,"male","tvet",6
+29,"female","primary 4",3
+26,"female","secondary 6",5
+26,"female","secondary 6",5
+26,"female","secondary 6",5
+31,"male","primary 3",5
+31,"male","primary 3",5
+26,"female","secondary 3",4
+26,"female","secondary 3",4
+26,"female","secondary 3",4
+27,"female",NA,3
+68,"female",NA,3
+29,"female","primary 3",2
+29,"female","primary 3",2
+63,"female","primary 4",2
+40,"female","primary 6",7
+26,"male","primary 6",4
+26,"male","primary 6",4
+26,"female","secondary 6",3
+26,"female","secondary 6",3
+26,"female","secondary 6",3
+84,"female",NA,2
+84,"female",NA,2
+84,"female",NA,2
+84,"female",NA,2
+34,"female","secondary 2",5
+34,"female","secondary 2",5
+34,"female","secondary 2",5
+30,"female","primary 6",3
+30,"female","primary 6",3
+30,"female","primary 6",3
+21,"male","secondary 2",4
+21,"male","secondary 2",4
+25,"male","university",8
+41,"male","primary 3",5
+41,"male","primary 3",5
+41,"male","primary 3",5
+45,"female","secondary 6",6
+45,"female","secondary 6",6
+45,"female","secondary 6",6
+45,"female","secondary 6",6
+34,"female","primary 4",4
+34,"female","primary 4",4
+24,"male","secondary 6",4
+24,"male","secondary 6",4
+31,"female","secondary 3",4
+31,"female","secondary 3",4
+24,"female","primary 6",3
+74,"female",NA,4
+74,"female",NA,4
+74,"female",NA,4
+28,"female","primary 6",4
+28,"female","primary 6",4
+28,"female","primary 6",4
+24,"male","university",4
+24,"male","university",4
+24,"male","university",4
+47,"male","primary 4",5
+47,"male","primary 4",5
+57,"male","secondary 3",6
+57,"male","secondary 3",6
+24,"female","primary 6",3
+24,"female","primary 6",3
+43,"male","primary 6",7
+43,"male","primary 6",7
+27,"female","secondary 6",4
+27,"female","secondary 6",4
+24,"female","primary 6",8
+24,"female","primary 6",8
+24,"female","primary 6",8
+61,"male",NA,4
+44,"female","primary 6",7
+44,"female","primary 6",7
+44,"female","primary 6",7
+32,"female","primary 4",6
+59,"male","secondary 4",2
+28,"male","primary 5",5
+46,"female","secondary 3",1
+39,"female","secondary 2",3
+36,"male","primary 5",6
+36,"male","primary 5",6
+48,"male","primary 5",4
+48,"male","primary 5",4
+36,"male",NA,6
+33,"male","tvet",3
+33,"male","tvet",3
+33,"male","tvet",3
+33,"male","tvet",3
+25,"male","primary 3",3
+25,"male","primary 3",3
+54,"male","primary 6",5
+54,"male","primary 6",5
+54,"male","primary 6",5
+51,"female","primary 3",3
+46,"female","secondary 3",10
+46,"female","secondary 3",10
+46,"female","secondary 3",10
+46,"female","secondary 3",10
+57,"female","primary 1",2
+57,"female","primary 1",2
+28,"male","primary 6",5
+28,"male","primary 6",5
+28,"male","primary 6",5
+35,"male","primary 5",4
+62,"female",NA,3
+62,"female",NA,3
+58,"female",NA,3
+58,"female",NA,3
+25,"female","primary 5",3
+25,"female","primary 5",3
+25,"female","primary 5",3
+49,"female","primary 6",2
+49,"female","primary 6",2
+49,"female","primary 6",2
+20,"female","primary 6",3
+20,"female","primary 6",3
+37,"female","primary 6",4
+30,"male","primary 3",3
+30,"male","primary 3",3
+43,"male",NA,7
+43,"male",NA,7
+43,"male",NA,7
+43,"male",NA,7
+37,"male","primary 1",4
+25,"male","secondary 3",5
+25,"male","secondary 3",5
+45,"male","primary 6",6
+26,"female","primary 6",5
+26,"female","primary 6",5
+32,"male","primary 3",5
+18,"female","primary 3",4
+22,"female","primary 6",2
+22,"female","primary 6",2
+22,"female","primary 6",2
+39,"male","primary 6",5
+33,"male","university",2
+36,"male","primary 2",3
+36,"male","primary 2",3
+48,"male","university",1
+24,"female","primary 6",9
+24,"female","primary 6",9
+24,"female","primary 6",9
+24,"female","primary 6",9
+52,"male","primary 6",5
+52,"male","primary 6",5
+30,"female","secondary 5",4
+46,"male","primary 6",7
+46,"male","primary 6",7
+29,"male","primary 3",3
+29,"male","primary 3",3
+29,"male","primary 3",3
+26,"female","primary 6",3
+26,"female","primary 6",3
+26,"female","primary 6",3
+26,"female","primary 6",3
+27,"male","secondary 2",4
+27,"male","secondary 2",4
+37,"male","primary 5",5
+37,"male","primary 5",5
+27,"female","primary 5",2
+27,"female","primary 5",2
+24,"female","primary 2",2
+40,"female","secondary 4",5
+40,"female","secondary 4",5
+40,"female","secondary 4",5
+18,"female","secondary 1",3
+18,"female","secondary 1",3
+81,"female","primary 2",2
+55,"male","primary 4",5
+55,"male","primary 4",5
+35,"male","primary 1",5
+35,"male","primary 1",5
+35,"male","primary 1",5
+35,"male","primary 4",6
+53,"female",NA,5
+20,"male","secondary 4",8
+20,"male","secondary 4",8
+20,"male","secondary 4",8
+38,"male","primary 5",1
+38,"male","primary 5",1
+34,"female","primary 6",3
+34,"female","primary 6",3
+34,"female","primary 6",3
+36,"female","primary 3",6
+36,"female","primary 3",6
+31,"female","primary 5",4
+48,"female","primary 4",9
+48,"female","primary 4",9
+48,"female","primary 4",9
+48,"female","primary 4",9
+58,"male","primary 5",6
+58,"male","primary 5",6
+42,"male","primary 2",6
+42,"male","primary 2",6
+31,"female","primary 3",4
+20,"female","primary 5",3
+31,"female",NA,4
+31,"female",NA,4
+31,"female",NA,4
+36,"female","primary 4",5
+35,"male","primary 5",7
+63,"female",NA,4
+30,"female","secondary 6",4
+38,"female",NA,7
+38,"female",NA,7
+38,"female",NA,7
+31,"male","primary 2",4
+26,"male","secondary 6",5
+26,"male","secondary 6",5
+26,"male","secondary 6",5
+25,"male","university",1
+24,"female","university",9
+80,"female","primary 5",2
+80,"female","primary 5",2
+80,"female","primary 5",2
+28,"male","primary 2",4
+28,"male","primary 2",4
+22,"male",NA,11
+34,"male","primary 3",4
+45,"female",NA,7
+45,"female",NA,7
+34,"male","secondary 6",4
+30,"male","primary 3",4
+43,"male","secondary 4",9
+43,"male","secondary 4",9
+31,"female","primary 5",3
+40,"male","primary 5",7
+72,"female","primary 1",5
+72,"female","primary 1",5
+55,"female","secondary 5",7
+55,"female","secondary 5",7
+26,"female","secondary 2",3
+26,"female","secondary 2",3
+26,"female","secondary 2",3
+26,"female","secondary 2",3
+35,"female","primary 6",6
+35,"female","primary 6",6
+35,"female","primary 6",6
+35,"female","primary 6",6
+24,"female","secondary 6",3
+24,"female","secondary 6",3
+69,"female","primary 6",4
+63,"male","primary 6",4
+46,"female","primary 6",4
+46,"female","primary 6",4
+46,"female","primary 6",4
+33,"female","primary 3",3
+33,"female","primary 3",3
+23,"male","primary 6",5
+45,"female","primary 3",3
+45,"female","primary 3",3
+55,"male","primary 2",4
+38,"male","primary 6",3
+53,"female","primary 6",4
+53,"female","primary 6",4
+53,"female","primary 6",4
+19,"male","secondary 3",4
+19,"male","secondary 3",4
+52,"female","primary 6",6
+52,"female","primary 6",6
+38,"female","primary 2",4
+52,"male","secondary 1",7
+52,"male","secondary 1",7
+52,"male","secondary 1",7
+52,"male","secondary 1",7
+41,"male","primary 6",4
+19,"male","secondary 3",6
+19,"male","secondary 3",6
+19,"male","secondary 3",6
+78,"female",NA,3
+53,"female","primary 4",6
+53,"female","primary 4",6
+53,"female","primary 4",6
+53,"female","primary 4",6
+54,"female",NA,2
+52,"female",NA,6
+52,"female",NA,6
+52,"female",NA,6
+52,"female",NA,6
+38,"female","primary 1",6
+38,"female","primary 1",6
+38,"female","primary 1",6
+51,"male","secondary 6",8
+37,"female","secondary 3",7
+37,"female","secondary 3",7
+37,"female","secondary 3",7
+37,"female","secondary 3",7
+33,"female","secondary 5",4
+48,"female","secondary 6",5
+48,"female","secondary 6",5
+48,"female","secondary 6",5
+28,"female","primary 5",4
+28,"female","primary 5",4
+28,"female","primary 5",4
+39,"male","primary 4",5
+18,"male","secondary 4",6
+27,"male","university",5
+27,"male","university",5
+69,"female",NA,6
+29,"female","primary 6",5
+29,"female","primary 6",5
+29,"female","primary 6",5
+29,"female","primary 6",5
+25,"male","university",7
+25,"male","university",7
+25,"male","university",7
+27,"female","tvet",2
+78,"female",NA,2
+78,"female",NA,2
+36,"female","primary 4",4
+36,"female","primary 4",4
+36,"female","primary 4",4
+36,"female","primary 4",4
+30,"female","primary 3",4
+56,"female","secondary 6",6
+42,"female","primary 6",9
+42,"female","primary 6",9
+38,"male",NA,5
+38,"male",NA,5
+58,"female","primary 4",3
+58,"female","primary 4",3
+58,"female","primary 4",3
+58,"female","primary 4",3
+45,"male","primary 6",6
+37,"female","primary 6",8
+37,"female","primary 6",8
+37,"female","primary 6",8
+26,"female","primary 6",3
+26,"female","primary 6",3
+55,"male","secondary 3",4
+30,"male","primary 4",6
+35,"female","primary 6",6
+22,"female","secondary 5",8
+23,"male","primary 5",3
+23,"male","primary 5",3
+23,"male","primary 5",3
+23,"male","primary 5",3
+45,"male","university",5
+45,"male","university",5
+45,"male","university",5
+46,"male","primary 6",5
+46,"male","primary 6",5
+39,"female",NA,5
+32,"female","tvet",3
+66,"male",NA,4
+37,"female","primary 3",3
+37,"female","primary 3",3
+35,"female",NA,5
+35,"female",NA,5
+42,"male","primary 6",4
+42,"male","primary 6",4
+42,"male","primary 6",4
+42,"male","primary 6",4
+26,"female",NA,5
+77,"female","primary 3",5
+77,"female","primary 3",5
+69,"female",NA,3
+43,"female","primary 6",5
+43,"female","primary 6",5
+43,"female","primary 6",5
+43,"female","primary 6",5
+36,"female","primary 6",5
+36,"female","primary 6",5
+36,"female","primary 6",5
+82,"female","primary 6",4
+22,"male","secondary 6",2
+22,"male","secondary 6",2
+22,"male","secondary 6",2
+32,"female","primary 6",6
+32,"female","primary 6",6
+32,"female","primary 6",6
+32,"female","primary 6",6
+51,"male","primary 4",5
+51,"male","primary 4",5
+36,"female","primary 3",5
+18,"female","secondary 3",2
+18,"female","secondary 3",2
+18,"female","secondary 3",2
+26,"male","secondary 3",1
+26,"male","secondary 3",1
+27,"female","primary 4",4
+27,"female","primary 4",4
+64,"male","primary 3",8
+63,"male","primary 4",5
+63,"male","primary 4",5
+63,"male","primary 4",5
+63,"male","primary 4",5
+64,"female","primary 5",4
+64,"female","primary 5",4
+59,"female",NA,4
+59,"female",NA,4
+28,"male","primary 3",4
+28,"male","primary 3",4
+28,"male","primary 3",4
+30,"male","primary 4",4
+30,"male","primary 4",4
+30,"male","primary 4",4
+30,"male","primary 4",4
+45,"male","primary 6",5
+45,"male","primary 6",5
+68,"female","secondary 6",4
+68,"female","secondary 6",4
+20,"male","primary 5",1
+20,"male","primary 5",1
+20,"male","primary 5",1
+18,"female","primary 6",5
+18,"female","primary 6",5
+25,"female","secondary 5",4
+25,"female","secondary 5",4
+25,"female","secondary 5",4
+25,"female","secondary 5",4
+55,"male","primary 5",6
+19,"female","secondary 1",2
+30,"female","primary 6",4
+30,"female",NA,8
+30,"female",NA,8
+26,"female","university",5
+26,"female","university",5
+40,"female","secondary 3",2
+35,"male","primary 5",6
+35,"male","primary 5",6
+35,"male","primary 5",6
+24,"female","secondary 6",6
+24,"female","secondary 6",6
+24,"female","secondary 6",6
+44,"male","primary 6",4
+44,"male","primary 6",4
+44,"male","primary 6",4
+40,"female","primary 1",6
+40,"female","primary 1",6
+40,"female","primary 1",6
+66,"female",NA,3
+36,"male","primary 6",5
+24,"female","primary 2",5
+54,"male","tvet",5
+33,"male","secondary 6",3
+33,"male","secondary 6",3
+33,"male","secondary 6",3
+25,"male","secondary 4",5
+25,"male","secondary 4",5
+25,"male","secondary 4",5
+25,"male","secondary 4",5
+28,"female","primary 6",5
+28,"female","primary 6",5
+30,"male","primary 6",1
+30,"male","primary 6",1
+30,"male","primary 6",1
+30,"male","primary 6",1
+45,"male",NA,4
+45,"male",NA,4
+45,"male",NA,4
+42,"male","primary 6",5
+42,"male","primary 6",5
+65,"female","other",3
+65,"female","other",3
+65,"female","other",3
+56,"male",NA,6
+36,"female","primary 3",5
+36,"female","primary 3",5
+36,"female","primary 3",5
+40,"female","primary 5",5
+25,"male","university",7
+25,"male","university",7
+25,"male","university",7
+42,"female","secondary 1",7
+42,"female","secondary 1",7
+42,"female","secondary 1",7
+42,"female","secondary 1",7
+22,"female","primary 6",2
+22,"female","primary 6",2
+53,"female",NA,1
+40,"male","secondary 3",6
+45,"female","secondary 6",4
+45,"female","secondary 6",4
+45,"female","secondary 6",4
+28,"female","secondary 2",5
+55,"female",NA,5
+38,"male","primary 6",7
+38,"male","primary 6",7
+48,"male","primary 6",5
+48,"male","primary 6",5
+36,"female","primary 1",7
+36,"female","primary 1",7
+34,"female","primary 3",4
+19,"female","primary 6",5
+19,"female","primary 6",5
+19,"female","primary 6",5
+30,"female","university",4
+30,"female","university",4
+30,"female","university",4
+36,"male","primary 2",3
+36,"male","primary 2",3
+36,"male","primary 2",3
+35,"male","primary 4",5
+35,"male","primary 4",5
+21,"female","primary 5",6
+21,"female","primary 5",6
+21,"female","primary 5",6
+18,"female","primary 4",2
+18,"female","primary 4",2
+18,"female","primary 4",2
+21,"female","primary 4",3
+21,"female","primary 4",3
+21,"female","primary 4",3
+60,"female",NA,5
+60,"female",NA,5
+28,"male","primary 5",3
+28,"male","primary 5",3
+46,"female","primary 3",4
+46,"female","primary 3",4
+46,"female","primary 3",4
+31,"female","university",6
+46,"male","primary 2",6
+46,"male","primary 2",6
+46,"male","primary 2",6
+36,"female",NA,3
+36,"female",NA,3
+49,"male","university",6
+49,"male","university",6
+28,"female","secondary 6",4
+31,"female","secondary 6",1
+43,"female","primary 6",7
+43,"female","primary 6",7
+58,"male","primary 4",9
+58,"male","primary 4",9
+58,"male","primary 4",9
+25,"male","primary 3",4
+54,"female",NA,3
+54,"female",NA,3
+21,"female","secondary 6",2
+40,"female","tvet",8
+33,"female","primary 5",7
+25,"male","primary 6",2
+25,"male","primary 6",2
+30,"male","primary 4",3
+36,"male","primary 4",5
+36,"male","primary 4",5
+36,"male","primary 4",5
+36,"male","primary 4",5
+60,"female","primary 6",4
+60,"female","primary 6",4
+31,"female","secondary 5",5
+37,"female","secondary 2",5
+37,"female","secondary 2",5
+37,"female","secondary 2",5
+28,"female","secondary 6",4
+38,"male","primary 2",7
+38,"male","primary 2",7
+38,"male","primary 2",7
+47,"female","primary 6",7
+50,"male","tvet",5
+50,"male","tvet",5
+50,"male","tvet",5
+63,"male",NA,4
+63,"male",NA,4
+39,"female","university",5
+39,"female","university",5
+39,"female","university",5
+31,"female","primary 4",3
+31,"female","primary 4",3
+31,"female","primary 4",3
+49,"female","primary 2",3
+49,"female","primary 2",3
+49,"female","primary 2",3
+49,"female","primary 2",3
+30,"male","primary 6",4
+43,"male","secondary 6",9
+43,"male","secondary 6",9
+56,"female","primary 2",5
+56,"female","primary 2",5
+46,"female","secondary 6",5
+46,"female","secondary 6",5
+20,"male","secondary 3",2
+58,"male","tvet",12
+58,"male","tvet",12
+58,"male","tvet",12
+30,"female",NA,3
+30,"female",NA,3
+30,"female",NA,3
+30,"female","secondary 2",6
+32,"female","university",3
+29,"female","primary 6",2
+56,"female","university",3
+56,"female","university",3
+40,"female","tvet",3
+42,"female","primary 6",7
+26,"female","primary 5",4
+26,"female","primary 5",4
+26,"female","primary 5",4
+31,"male","primary 5",3
+31,"male","primary 5",3
+30,"female","secondary 6",5
+30,"female","secondary 6",5
+28,"male","university",3
+42,"female","secondary 6",1
+42,"female","secondary 6",1
+27,"male","secondary 6",3
+18,"female","primary 6",4
+18,"female","primary 6",4
+18,"female","primary 6",4
+48,"female","other",2
+33,"male","primary 5",4
+41,"female","primary 6",8
+29,"male","primary 4",2
+34,"male","primary 3",6
+34,"male","primary 3",6
+34,"male","primary 3",6
+50,"female","secondary 6",4
+63,"female","primary 6",2
+63,"female","primary 6",2
+63,"female","primary 6",2
+38,"female","primary 6",5
+38,"female","primary 6",5
+32,"female","primary 3",5
+25,"female","primary 6",3
+25,"female","primary 6",3
+28,"male","secondary 2",3
+29,"male","primary 1",5
+27,"female","university",5
+27,"female","university",5
+27,"female","university",5
+41,"male","primary 6",7
+29,"female",NA,4
+61,"female","primary 6",4
+34,"female","secondary 6",6
+39,"female","primary 6",5
+39,"female","primary 6",5
+39,"female","primary 6",5
+32,"male","primary 5",4
+32,"male","primary 5",4
+32,"male","primary 5",4
+44,"female","other",5
+44,"female","other",5
+27,"female","secondary 2",11
+27,"female","secondary 2",11
+36,"female","primary 4",4
+36,"female","primary 4",4
+42,"female","primary 4",4
+42,"female","primary 4",4
+41,"male","primary 3",10
+41,"male","primary 3",10
+55,"female","primary 5",2
+55,"female","primary 5",2
+55,"female","primary 5",2
+31,"female","primary 6",5
+28,"female","primary 2",4
+28,"female","primary 2",4
+40,"male","primary 6",6
+40,"male","primary 6",6
+63,"female",NA,1
+63,"female",NA,1
+63,"female",NA,1
+26,"female","secondary 3",3
+26,"female","secondary 3",3
+26,"female","secondary 3",3
+45,"male",NA,1
+45,"male",NA,1
+36,"male","primary 3",5
+48,"female","primary 3",3
+48,"female","primary 3",3
+29,"female","secondary 3",5
+29,"female","secondary 3",5
+29,"female","secondary 3",5
+29,"female","secondary 3",5
+22,"male","primary 6",5
+22,"male","primary 6",5
+53,"female","primary 4",3
+53,"female","primary 4",3
+53,"female","primary 4",3
+45,"female","primary 4",6
+45,"female","primary 4",6
+40,"male","primary 4",7
+40,"male","primary 4",7
+24,"male","primary 6",5
+24,"male","primary 6",5
+37,"male","university",6
+26,"female","primary 5",3
+47,"female","primary 3",7
+47,"female","primary 3",7
+47,"male","university",5
+28,"female","primary 5",4
+42,"male","secondary 2",7
+42,"male","secondary 2",7
+28,"male","university",7
+28,"male","university",7
+28,"male","university",7
+28,"male","university",7
+37,"male","primary 6",5
+37,"male","primary 6",5
+41,"male","primary 5",4
+36,"male","secondary 6",4
+36,"male","secondary 6",4
+36,"male","secondary 6",4
+29,"female","primary 2",4
+62,"female","primary 6",4
+62,"female","primary 6",4
+40,"male","primary 6",7
+40,"male","primary 6",7
+76,"male","secondary 2",4
+64,"male",NA,3
+64,"male",NA,3
+41,"female","primary 4",6
+41,"female","primary 4",6
+44,"female","primary 6",1
+44,"female","primary 6",1
+30,"female","primary 3",4
+30,"female","primary 3",4
+62,"male",NA,3
+42,"female","primary 2",2
+42,"female","primary 2",2
+46,"female","secondary 3",6
+37,"female","primary 6",1
+28,"female","primary 6",4
+28,"female","primary 6",4
+28,"female","primary 6",4
+26,"female","primary 2",4
+26,"female","primary 2",4
+40,"female","primary 6",9
+40,"female","primary 6",9
+20,"male","primary 5",7
+24,"female","primary 1",5
+29,"female","primary 6",4
+29,"female","primary 6",4
+32,"male","secondary 5",4
+32,"male","secondary 5",4
+32,"male","secondary 5",4
+37,"female","secondary 1",3
+36,"male","primary 4",4
+36,"male","primary 4",4
+36,"male","primary 4",4
+60,"male","primary 6",7
+60,"male","primary 6",7
+60,"male","primary 6",7
+60,"male","primary 6",7
+49,"male","university",5
+49,"male","university",5
+49,"male","university",5
+32,"female","secondary 6",3
+32,"female","secondary 6",3
+52,"male","university",6
+52,"male","university",6
+52,"male","university",6
+52,"male","university",6
+27,"female","primary 6",3
+27,"female","primary 6",3
+27,"female","primary 6",3
+27,"female","primary 6",3
+49,"female","primary 6",12
+49,"female","primary 6",12
+49,"female","primary 6",12
+50,"female","primary 6",7
+50,"female","primary 6",7
+33,"male","primary 5",5
+33,"male","primary 5",5
+33,"male","primary 5",5
+41,"female","university",4
+44,"female","university",7
+44,"female","university",7
+44,"female","university",7
+59,"female",NA,4
+59,"female",NA,4
+59,"female",NA,4
+42,"male","primary 5",6
+42,"male","primary 5",6
+56,"male","university",4
+67,"male","primary 4",5
+67,"male","primary 4",5
+67,"male","primary 4",5
+19,"male","secondary 6",8
+51,"female","tvet",8
+51,"female","tvet",8
+34,"male","primary 2",4
+34,"male","primary 2",4
+36,"female","primary 6",6
+45,"female","primary 6",6
+45,"female","primary 6",6
+30,"male","secondary 4",5
+30,"male","secondary 4",5
+43,"female","university",5
+31,"male","primary 3",3
+31,"male","primary 3",3
+31,"male","primary 3",3
+22,"female","secondary 1",3
+22,"female","secondary 1",3
+41,"male","primary 4",8
+41,"male","primary 4",8
+35,"male","university",5
+37,"male","primary 4",9
+37,"male","primary 4",9
+32,"male","primary 6",5
+32,"male","primary 6",5
+28,"male","secondary 5",5
+28,"male","secondary 5",5
+46,"female",NA,7
+28,"female","primary 1",3
+28,"female","primary 1",3
+21,"male",NA,2
+21,"female","secondary 4",7
+21,"female","secondary 4",7
+41,"male","primary 6",4
+20,"male","primary 4",3
+20,"male","primary 4",3
+24,"male","university",11
+38,"female","primary 6",3
+97,"male",NA,2
+28,"female","primary 2",4
+28,"female","primary 2",4
+28,"female","primary 2",4
+28,"female","primary 2",4
+48,"female","primary 6",5
+44,"female","primary 6",7
+52,"male",NA,8
+20,"male","secondary 1",5
+28,"male","secondary 1",4
+28,"male","secondary 1",4
+28,"male","secondary 1",4
+28,"male","secondary 1",4
+24,"female","primary 5",4
+28,"male","university",5
+34,"female","secondary 6",5
+34,"female","secondary 6",5
+34,"female","secondary 6",5
+28,"male","primary 3",4
+28,"male","primary 3",4
+28,"male","primary 3",4
+50,"female","primary 5",5
+25,"male","secondary 2",3
+25,"male","secondary 2",3
+19,"female","secondary 6",8
+88,"female",NA,3
+88,"female",NA,3
+70,"female","primary 3",3
+53,"male","primary 3",5
+53,"male","primary 3",5
+29,"female","primary 2",4
+29,"female","primary 2",4
+64,"female",NA,6
+64,"female",NA,6
+24,"male","primary 5",4
+37,"male","primary 4",5
+37,"male","primary 4",5
+37,"male","primary 4",5
+24,"male","secondary 4",6
+24,"male","secondary 4",6
+43,"male","primary 4",6
+43,"female","secondary 6",5
+21,"male","primary 6",9
+39,"male","university",6
+39,"male","university",6
+34,"male","primary 6",3
+34,"male","primary 6",3
+28,"male","primary 6",3
+23,"female","secondary 3",2
+66,"female","primary 2",5
+19,"female","secondary 6",6
+19,"female","secondary 6",6
+31,"female","secondary 4",7
+31,"female","secondary 4",7
+60,"female","secondary 2",5
+60,"female","secondary 2",5
+60,"female","secondary 2",5
+60,"female","secondary 2",5
+55,"male","primary 6",1
+19,"female","primary 4",7
+36,"female","primary 5",5
+36,"female","primary 5",5
+27,"male","primary 6",2
+24,"female","secondary 4",2
+24,"female","secondary 4",2
+24,"female","secondary 4",2
+24,"female","secondary 4",2
+57,"male","primary 3",10
+57,"male","primary 3",10
+57,"male","primary 3",10
+26,"female","primary 6",4
+26,"female","primary 6",4
+26,"female","primary 6",4
+34,"female","primary 4",8
+34,"female","primary 4",8
+34,"female","primary 4",8
+30,"female","primary 4",5
+30,"female","primary 4",5
+30,"female","primary 4",5
+30,"female","primary 4",5
+57,"female","primary 3",1
+57,"female","primary 3",1
+65,"male","primary 6",6
+65,"male","primary 6",6
+30,"female","primary 6",3
+50,"female","primary 6",5
+50,"female","primary 6",5
+43,"male","tvet",4
+35,"female","university",6
+47,"female","primary 6",6
+47,"female","primary 6",6
+32,"male","university",5
+32,"male","university",5
+34,"female","primary 2",5
+34,"female","primary 2",5
+46,"female","primary 6",5
+46,"female","primary 6",5
+31,"female","primary 4",2
+32,"male","primary 4",5
+32,"male","primary 4",5
+21,"female","secondary 4",2
+21,"female","secondary 4",2
+21,"female","secondary 4",2
+21,"female","secondary 4",2
+49,"female","university",5
+49,"female","university",5
+49,"female","university",5
+34,"female",NA,5
+27,"female","primary 2",4
+27,"female","primary 2",4
+27,"female","primary 2",4
+27,"female","primary 2",4
+53,"female",NA,7
+29,"female","primary 6",4
+22,"female","secondary 3",4
+22,"female","secondary 3",4
+45,"female",NA,4
+53,"female",NA,7
+30,"female","primary 3",5
+30,"female","primary 3",5
+30,"female","primary 3",5
+74,"female",NA,1
+48,"male","primary 6",5
+48,"male","primary 6",5
+25,"male","primary 6",3
+25,"male","primary 6",3
+22,"female","secondary 2",7
+22,"female","secondary 2",7
+68,"male","secondary 6",2
+34,"male","primary 4",6
+34,"male","primary 4",6
+26,"male","secondary 2",4
+29,"female","primary 6",6
+35,"male","primary 5",4
+35,"male","primary 5",4
+35,"male",NA,6
+51,"male",NA,4
+51,"male",NA,4
+51,"male",NA,4
+35,"female","primary 4",5
+35,"female","primary 4",5
+39,"male","primary 6",6
+39,"male","primary 6",6
+39,"male","primary 6",6
+39,"male","primary 6",6
+23,"female","secondary 2",3
+23,"female","secondary 2",3
+36,"male","primary 6",7
+36,"male","primary 6",7
+36,"male","primary 6",7
+36,"female","primary 5",8
+43,"female","secondary 5",5
+43,"female","secondary 5",5
+43,"female","secondary 5",5
+63,"female","primary 6",2
+63,"female","primary 6",2
+63,"female","primary 6",2
+36,"male","primary 6",4
+36,"male","primary 6",4
+31,"male","primary 6",5
+31,"male","primary 6",5
+78,"female","primary 3",2
+55,"female","secondary 3",6
+25,"female","primary 5",4
+25,"female","primary 5",4
+25,"female","primary 5",4
+28,"male","primary 3",4
+28,"male","primary 3",4
+36,"female","primary 6",6
+36,"female","primary 6",6
+40,"female","primary 6",5
+40,"female","primary 6",5
+40,"female","primary 6",5
+38,"female","primary 6",2
+38,"female","primary 6",2
+38,"female","primary 6",2
+34,"female","secondary 6",4
+63,"female","secondary 3",3
+63,"female","secondary 3",3
+63,"female","secondary 3",3
+48,"female","primary 6",5
+33,"male","primary 3",6
+33,"male","primary 3",6
+33,"male","primary 3",6
+32,"male","primary 6",4
+32,"male","primary 6",4
+32,"male","primary 6",4
+36,"female","primary 3",9
+36,"female","primary 3",9
+25,"female","primary 2",4
+18,"male","primary 6",6
+18,"male","primary 6",6
+18,"male","primary 6",6
+69,"female","primary 2",4
+47,"female",NA,4
+47,"female",NA,4
+47,"female",NA,4
+22,"female","primary 4",2
+22,"female","primary 4",2
+22,"female","primary 4",2
+41,"male","primary 6",5
+41,"male","primary 6",5
+41,"male","primary 6",5
+29,"female","primary 6",6
+29,"female","primary 6",6
+47,"female",NA,6
+47,"female",NA,6
+47,"female",NA,6
+46,"male","primary 6",8
+33,"female","primary 6",6
+50,"male","university",4
+50,"male","university",4
+55,"female",NA,3
+55,"female",NA,3
+55,"female",NA,3
+29,"male",NA,5
+29,"male",NA,5
+29,"male",NA,5
+44,"female","primary 4",5
+44,"female","primary 4",5
+44,"female","primary 4",5
+45,"female","primary 6",2
+45,"female","primary 6",2
+41,"female","secondary 2",3
+59,"male","primary 6",10
+59,"male","primary 6",10
+59,"male","primary 6",10
+27,"male","primary 2",3
+27,"male","primary 2",3
+27,"male","primary 2",3
+38,"female","primary 6",5
+38,"female","primary 6",5
+38,"female","primary 6",5
+24,"female","primary 6",4
+24,"female","primary 6",4
+23,"male","primary 6",3
+23,"male","primary 6",3
+23,"male","primary 6",3
+23,"male","secondary 2",9
+23,"male","secondary 2",9
+23,"male","secondary 2",9
+23,"male","secondary 2",9
+40,"female","primary 6",5
+40,"female","primary 6",5
+40,"female","primary 6",5
+29,"female","secondary 3",5
+34,"female","primary 2",6
+34,"female","primary 2",6
+34,"female","primary 2",6
+19,"male","primary 2",9
+19,"male","primary 2",9
+19,"male","primary 2",9
+58,"female","secondary 3",6
+58,"female","secondary 3",6
+20,"male","primary 6",10
+20,"male","primary 6",10
+40,"male","secondary 3",2
+40,"male","secondary 3",2
+41,"female","secondary 4",2
+41,"female","secondary 4",2
+41,"female","secondary 4",2
+47,"male",NA,8
+47,"male",NA,8
+47,"male",NA,8
+47,"male",NA,8
+45,"male","primary 6",7
+38,"male","primary 3",2
+38,"male","primary 3",2
+38,"male","primary 3",2
+31,"female","secondary 6",2
+44,"male","secondary 5",1
+34,"male","primary 3",4
+34,"male","primary 3",4
+34,"male","primary 3",4
+23,"male","secondary 2",4
+23,"male","secondary 2",4
+23,"male","secondary 2",4
+27,"female","primary 2",4
+27,"female","primary 2",4
+27,"female","primary 2",4
+24,"female","secondary 6",4
+52,"female","primary 3",2
+50,"male","secondary 4",5
+50,"male","secondary 4",5
+47,"female","secondary 3",6
+47,"female","secondary 3",6
+47,"female","secondary 3",6
+23,"male","primary 1",2
+25,"female","university",5
+25,"female","university",5
+25,"female","university",5
+46,"female","secondary 6",5
+46,"female","secondary 6",5
+46,"female","secondary 6",5
+55,"female",NA,1
+55,"female",NA,1
+55,"female",NA,1
+24,"male","primary 3",9
+24,"male","primary 3",9
+23,"female","secondary 3",4
+48,"male","primary 3",7
+20,"female","secondary 3",2
+20,"female","secondary 3",2
+20,"female","secondary 3",2
+34,"female","secondary 6",5
+34,"female","secondary 6",5
+26,"female","primary 3",4
+27,"male","primary 3",4
+53,"female","secondary 3",10
+53,"female","secondary 3",10
+53,"female","secondary 3",10
+27,"female","primary 5",4
+27,"female","primary 5",4
+27,"female","primary 5",4
+42,"female","secondary 4",8
+42,"female","secondary 4",8
+46,"male","primary 6",7
+46,"male","primary 6",7
+24,"male","primary 5",6
+24,"male","primary 5",6
+33,"female","primary 6",4
+42,"female","primary 6",5
+38,"female","primary 3",8
+38,"female","primary 3",8
+18,"male","primary 6",4
+18,"male","primary 6",4
+45,"male","primary 6",9
+45,"male","primary 6",9
+18,"male","primary 6",8
+18,"male","primary 6",8
+26,"female","university",8
+26,"female","university",8
+40,"female","secondary 6",5
+35,"female","secondary 6",7
+35,"female","secondary 6",7
+38,"female","secondary 5",4
+38,"female","secondary 5",4
+38,"female","secondary 5",4
+28,"male","secondary 6",6
+28,"male","secondary 6",6
+28,"male","secondary 6",6
+20,"female","secondary 6",5
+20,"female","secondary 6",5
+19,"male","primary 5",2
+19,"male","primary 5",2
+61,"male",NA,3
+61,"male",NA,3
+20,"male","secondary 3",4
+20,"male","secondary 3",4
+20,"male","secondary 3",4
+20,"male","secondary 3",4
+32,"male","primary 4",8
+32,"male","primary 4",8
+32,"male","primary 4",8
+36,"female","secondary 6",6
+36,"female","secondary 6",6
+27,"male","primary 6",3
+27,"male","primary 6",3
+27,"male","primary 6",3
+27,"male","primary 6",3
+41,"female","primary 6",6
+29,"male","primary 5",4
+29,"male","primary 5",4
+29,"male","primary 5",4
+42,"female","tvet",6
+42,"female","tvet",6
+27,"female","primary 2",2
+27,"female","primary 2",2
+27,"female","primary 2",2
+27,"female","primary 2",2
+37,"female",NA,6
+71,"female","secondary 6",2
+71,"female","secondary 6",2
+71,"female","secondary 6",2
+42,"female",NA,6
+42,"female",NA,6
+42,"female",NA,6
+42,"female",NA,6
+39,"male","primary 6",9
+35,"male","primary 6",5
+54,"female","primary 2",2
+54,"female","primary 2",2
+54,"female","primary 2",2
+63,"male","primary 3",3
+63,"male","primary 3",3
+28,"male","university",2
+49,"female","secondary 4",6
+49,"female","secondary 4",6
+24,"female","primary 3",5
+19,"female","primary 6",5
+19,"female","primary 6",5
+51,"female",NA,4
+51,"female",NA,4
+51,"female",NA,4
+20,"female","secondary 6",8
+44,"female","primary 3",3
+46,"male","secondary 6",9
+46,"male","secondary 6",9
+32,"male","primary 6",5
+32,"male","primary 6",5
+30,"female",NA,5
+77,"male","primary 6",3
+52,"male","primary 6",3
+52,"male","primary 6",3
+52,"male","primary 6",3
+28,"female","secondary 4",3
+28,"female","secondary 4",3
+59,"female","primary 6",4
+38,"female","primary 4",5
+38,"female","primary 4",5
+36,"female","secondary 3",5
+36,"female","secondary 3",5
+36,"female","secondary 3",5
+56,"male","primary 6",4
+56,"male","primary 6",4
+56,"male","primary 6",4
+35,"male","secondary 6",5
+35,"male","secondary 6",5
+35,"male","secondary 6",5
+35,"male","secondary 6",5
+56,"female","primary 4",2
+19,"male",NA,6
+19,"male",NA,6
+19,"male",NA,6
+38,"female","primary 6",7
+38,"female","primary 6",7
+38,"female","primary 6",7
+40,"male","tvet",8
+40,"male","tvet",8
+40,"male","tvet",8
+31,"male","primary 6",4
+31,"male","primary 6",4
+33,"male","primary 6",4
+33,"male","primary 6",4
+33,"male","primary 6",4
+33,"male","primary 6",4
+32,"female","secondary 3",7
+32,"female","secondary 3",7
+32,"female","secondary 3",7
+32,"female","secondary 3",7
+48,"female","primary 6",5
+48,"female","primary 6",5
+33,"female","university",7
+54,"male",NA,11
+54,"male",NA,11
+23,"male","secondary 6",8
+38,"male","primary 4",5
+38,"male","primary 4",5
+38,"male","primary 4",5
+31,"female","primary 5",4
+31,"female","primary 5",4
+31,"female","primary 5",4
+67,"male","primary 6",5
+36,"male","secondary 6",3
+36,"male","secondary 6",3
+36,"male","secondary 6",3
+45,"male","primary 6",8
+45,"male","primary 6",8
+57,"male","primary 5",3
+57,"male","primary 5",3
+57,"male","primary 5",3
+55,"male",NA,4
+55,"male",NA,4
+26,"female","university",4
+26,"female","university",4
+26,"female","university",4
+21,"male","primary 4",2
+21,"male","primary 4",2
+40,"male","primary 6",6
+35,"male","primary 5",4
+35,"male","primary 5",4
+35,"male","primary 5",4
+76,"female",NA,3
+76,"female",NA,3
+52,"female",NA,3
+52,"female",NA,3
+41,"male","tvet",4
+20,"male","primary 3",4
+20,"male","primary 3",4
+36,"male",NA,3
+57,"female","primary 6",1
+22,"female","secondary 1",2
+23,"female","university",8
+23,"female","university",8
+60,"female","primary 2",4
+60,"female","primary 2",4
+68,"female","primary 3",6
+58,"male","primary 6",8
+40,"female","primary 3",6
+40,"female","primary 3",6
+68,"male","secondary 6",6
+68,"male","secondary 6",6
+68,"male","secondary 6",6
+35,"female","primary 6",6
+35,"female","primary 6",6
+25,"male","primary 6",3
+21,"female","secondary 6",3
+19,"female","primary 6",11
+19,"female","primary 6",11
+59,"female","secondary 6",4
+60,"male","primary 6",5
+60,"male","primary 6",5
+69,"female",NA,4
+60,"female","primary 6",4
+31,"male","primary 5",5
+30,"female","university",4
+53,"female","primary 6",5
+53,"female","primary 6",5
+30,"male","primary 6",4
+36,"female","primary 4",5
+36,"female","primary 4",5
+19,"female","tvet",6
+33,"female","primary 5",4
+33,"female","primary 5",4
+44,"male","primary 6",1
+26,"female","secondary 6",3
+26,"female","secondary 6",3
+56,"female","primary 6",5
+56,"female","primary 6",5
+56,"female","primary 6",5
+24,"female","secondary 1",4
+24,"female","secondary 1",4
+37,"male","primary 6",6
+37,"male","primary 6",6
+37,"male","primary 6",6
+85,"female","primary 5",11
+85,"female","primary 5",11
+85,"female","primary 5",11
+85,"female","primary 5",11
+50,"female","primary 6",6
+50,"female","primary 6",6
+35,"female","primary 2",6
+21,"male","secondary 4",5
+52,"male",NA,7
+52,"male",NA,7
+52,"male",NA,7
+52,"male",NA,7
+22,"female","primary 6",3
+22,"female","primary 6",3
+22,"female","primary 6",3
+21,"female","university",8
+21,"female","university",8
+21,"female","university",8
+25,"male","secondary 3",3
+25,"male","secondary 3",3
+19,"female","secondary 6",5
+43,"female","primary 4",5
+43,"female","primary 4",5
+52,"male","primary 6",5
+27,"male","primary 1",4
+44,"male","primary 6",6
+44,"male","primary 6",6
+30,"female","primary 6",5
+30,"female","primary 6",5
+30,"female","primary 6",5
+30,"male","secondary 2",2
+24,"female","primary 6",2
+38,"female","primary 1",11
+38,"female","primary 1",11
+38,"female","primary 1",11
+27,"female","secondary 6",3
+27,"female","secondary 6",3
+27,"female","secondary 6",3
+38,"female","secondary 6",6
+38,"female","secondary 6",6
+38,"female","secondary 6",6
+28,"female","primary 3",1
+28,"female","primary 6",3
+28,"female","primary 6",3
+28,"female","primary 6",3
+72,"female",NA,2
+30,"female",NA,3
+30,"female",NA,3
+58,"male","primary 6",8
+58,"male","primary 6",8
+58,"male","primary 6",8
+58,"male","primary 6",8
+58,"male","primary 6",4
+58,"male","primary 6",4
+48,"female","tvet",5
+26,"female","primary 3",3
+26,"female","primary 3",3
+41,"male","secondary 5",6
+33,"female","secondary 6",6
+24,"male","secondary 6",3
+24,"male","secondary 6",3
+24,"male","secondary 6",3
+38,"male","primary 5",10
+38,"male","primary 5",10
+71,"female","primary 5",5
+71,"female","primary 5",5
+71,"female","primary 5",5
+26,"female","primary 4",13
+26,"female","primary 4",13
+26,"female","primary 4",13
+41,"female","primary 6",5
+41,"female","primary 6",5
+41,"female","primary 6",5
+57,"female","primary 6",5
+32,"male","primary 3",6
+32,"male","primary 3",6
+32,"male","primary 3",6
+28,"male","secondary 6",5
+28,"male","secondary 6",5
+24,"female","primary 2",4
+24,"female","primary 2",4
+24,"female","primary 2",4
+24,"female","primary 2",4
+43,"male","primary 6",5
+43,"male","primary 6",5
+33,"male","primary 6",4
+33,"male","primary 6",4
+31,"female","university",4
+50,"female","primary 1",3
+50,"female","primary 1",3
+30,"male","primary 5",3
+30,"male","primary 5",3
+31,"male","university",4
+31,"male","university",4
+31,"male","university",4
+31,"male","university",4
+37,"male","primary 6",5
+26,"female","primary 6",5
+26,"female","primary 6",5
+19,"female","primary 6",6
+25,"female","primary 3",2
+25,"female","primary 3",2
+25,"female","primary 3",2
+64,"male","secondary 5",2
+64,"male","secondary 5",2
+37,"female","primary 6",5
+19,"female","secondary 5",7
+37,"female",NA,7
+27,"male","secondary 6",2
+27,"male","secondary 6",2
+83,"female",NA,4
+33,"male","primary 5",5
+33,"male","primary 5",5
+33,"male","primary 5",5
+33,"male","primary 5",5
+32,"female","primary 5",4
+32,"female","primary 5",4
+32,"female","primary 5",4
+32,"female","primary 5",4
+47,"female","university",5
+47,"female","university",5
+28,"female","primary 2",4
+28,"female","primary 2",4
+28,"female","primary 2",4
+30,"female","primary 4",2
+30,"female","primary 4",2
+30,"female","primary 4",2
+44,"female","primary 6",5
+44,"female","primary 6",5
+44,"female","primary 6",5
+25,"female","secondary 6",4
+25,"female","secondary 6",4
+28,"male","primary 3",4
+42,"male","secondary 2",5
+54,"female","primary 2",1
+54,"female","primary 2",1
+27,"male","secondary 6",3
+27,"male","secondary 6",3
+27,"male","secondary 6",3
+62,"female","primary 6",1
+62,"female","primary 6",1
+49,"male","primary 6",9
+49,"male","primary 6",9
+54,"male","university",5
+54,"male","university",5
+25,"female","secondary 6",3
+20,"female","primary 5",6
+20,"female","primary 5",6
+48,"female",NA,2
+48,"female",NA,2
+25,"male","secondary 3",3
+25,"male","secondary 3",3
+25,"male","secondary 3",3
+25,"male","secondary 3",3
+30,"male",NA,2
+30,"male",NA,2
+30,"male",NA,2
+28,"male","primary 6",4
+28,"male","primary 6",4
+28,"male","primary 6",4
+28,"male","primary 6",4
+30,"female","primary 6",5
+30,"female","primary 6",5
+33,"male","primary 5",4
+33,"male","primary 5",4
+33,"male","primary 5",4
+75,"female","secondary 1",7
+75,"female","secondary 1",7
+30,"male","primary 6",5
+19,"male","primary 5",2
+23,"female","secondary 6",9
+23,"female","secondary 6",9
+23,"female","secondary 6",9
+23,"female","secondary 6",9
+26,"female","primary 6",3
+19,"male","secondary 3",7
+19,"male","secondary 3",7
+19,"male","secondary 3",7
+23,"female","primary 6",2
+23,"female","primary 6",2
+23,"female","primary 6",2
+57,"female","primary 6",2
+57,"female","primary 6",2
+57,"female","primary 6",2
+43,"female","primary 6",13
+34,"male","primary 2",4
+34,"male","primary 2",4
+28,"female","secondary 6",4
+28,"female","secondary 6",4
+28,"female","secondary 6",4
+32,"female","primary 6",5
+32,"female","primary 6",5
+32,"female","primary 6",5
+32,"female","primary 6",5
+32,"female","primary 6",5
+32,"female","primary 6",5
+26,"female","primary 5",1
+32,"female","primary 6",3
+32,"female","primary 6",3
+35,"female","primary 4",3
+24,"female","primary 5",3
+19,"female","primary 6",6
+19,"female","primary 6",6
+33,"female","university",6
+24,"male","tvet",5
+24,"male","tvet",5
+28,"male","secondary 3",3
+30,"male","secondary 6",2
+30,"male","secondary 6",2
+55,"female","primary 1",3
+55,"female","primary 1",3
+55,"female","primary 1",3
+41,"male","primary 4",5
+41,"male","primary 4",5
+41,"male","primary 4",5
+41,"male","primary 4",5
+24,"female","secondary 6",3
+36,"male","primary 4",7
+21,"female","secondary 5",7
+25,"female","primary 5",3
+32,"male","primary 5",3
+32,"male","primary 5",3
+32,"male","primary 5",3
+32,"male","primary 5",7
+32,"male","primary 5",7
+32,"male","primary 5",7
+52,"male","primary 1",5
+52,"male","primary 1",5
+52,"male","primary 1",5
+32,"female","primary 6",5
+35,"female","primary 2",6
+24,"female","secondary 1",3
+24,"female","secondary 1",3
+27,"male","secondary 3",2
+35,"male","secondary 4",4
+35,"male","secondary 4",4
+56,"female",NA,4
+56,"female",NA,4
+56,"female",NA,4
+56,"female",NA,4
+22,"male","secondary 6",6
+22,"male","secondary 6",6
+44,"female","primary 6",5
+44,"female","primary 6",5
+44,"female","primary 6",5
+60,"male","primary 4",3
+60,"male","primary 4",3
+20,"male","secondary 1",9
+31,"male","primary 4",5
+31,"male","primary 4",5
+30,"female","primary 4",5
+30,"female","primary 4",5
+35,"male","secondary 1",4
+35,"male","secondary 1",4
+19,"male","secondary 1",4
+29,"male","secondary 1",3
+29,"male","secondary 1",3
+29,"male","secondary 1",3
+37,"female","primary 6",3
+37,"female","primary 6",3
+37,"female","primary 6",4
+37,"female","primary 6",4
+37,"female","primary 6",4
+40,"male","primary 6",7
+40,"male","primary 6",7
+40,"male","primary 6",7
+26,"female","primary 3",6
+50,"female","primary 6",3
+50,"female","primary 6",3
+29,"female","primary 4",6
+29,"female","primary 4",6
+29,"female","primary 4",6
+33,"male","primary 3",6
+33,"male","primary 3",6
+33,"male","primary 3",6
+33,"male","primary 3",6
+28,"female","secondary 6",3
+28,"female","secondary 6",3
+28,"female","secondary 6",3
+37,"female","primary 6",3
+37,"female","primary 6",3
+22,"male","secondary 2",1
+52,"female","primary 2",7
+36,"female","primary 1",7
+36,"female","primary 1",7
+19,"female","primary 5",1
+19,"female","primary 5",1
+19,"female","primary 5",1
+26,"male","primary 3",4
+21,"male","secondary 5",6
+21,"male","secondary 5",6
+30,"female","primary 4",5
+37,"female","primary 5",4
+37,"female","primary 5",4
+29,"male","secondary 3",6
+29,"male","secondary 3",6
+29,"male","secondary 3",6
+29,"male","secondary 3",6
+37,"female",NA,4
+37,"female",NA,4
+20,"female","primary 6",3
+20,"female","primary 6",3
+51,"female","tvet",3
+51,"female","tvet",3
+33,"male",NA,5
+33,"male",NA,5
+21,"female","primary 5",4
+21,"female","primary 5",4
+60,"male","primary 2",5
+60,"male","primary 2",5
+60,"male","primary 2",5
+31,"female","primary 6",4
+36,"female",NA,7
+36,"female",NA,7
+36,"female",NA,7
+61,"female","primary 5",3
+61,"female","primary 5",3
+61,"female","primary 5",3
+31,"male","primary 6",4
+41,"female","primary 6",8
+41,"female","primary 6",8
+41,"female","primary 6",8
+23,"female","primary 1",4
+23,"female","primary 1",4
+23,"female","primary 1",4
+23,"male","primary 6",3
+23,"male","primary 6",3
+23,"male","primary 6",3
+23,"male","primary 6",3
+65,"male","primary 4",4
+65,"male","primary 4",4
+39,"female","primary 6",4
+39,"female","primary 6",4
+35,"male","primary 6",7
+20,"male","primary 6",2
+60,"male","primary 4",4
+23,"male","primary 4",2
+38,"male","primary 3",7
+38,"male","primary 3",7
+35,"male","primary 6",4
+18,"female","primary 6",7
+18,"female","primary 6",7
+58,"female","primary 6",6
+58,"female","primary 6",6
+23,"female","secondary 6",7
+23,"female","secondary 6",7
